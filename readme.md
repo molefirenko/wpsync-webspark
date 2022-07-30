@@ -1,4 +1,4 @@
-# Websync Plugin
+# WPSync Plugin
 
 Test assignment for `Webspark`
 
