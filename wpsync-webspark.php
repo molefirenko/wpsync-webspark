@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Sync WC Products
+ * Plugin Name: WPSync Webspark
  * Description: Sync WooCommerce Products with Webspark API
  * Version: 0.30.07.2022
  * Author: Maxim Olefirenko
